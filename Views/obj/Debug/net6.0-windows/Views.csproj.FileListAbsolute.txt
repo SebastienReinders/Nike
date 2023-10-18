@@ -1,0 +1,92 @@
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.exe
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.deps.json
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.runtimeconfig.json
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.pdb
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Modele.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Modele.pdb
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\ConfirmerWindow.baml
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\ConfirmerWindow.g.cs
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\PoliceWindow.g.cs
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.lref
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\PoliceWindow.baml
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.g.resources
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.pdb
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\ref\Views.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.exe
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.deps.json
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.runtimeconfig.json
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Views.pdb
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Modele.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\Modele.pdb
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\ConfirmerWindow.baml
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\ConfirmerWindow.g.cs
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\PoliceWindow.g.cs
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.cache
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views_MarkupCompile.lref
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\PoliceWindow.baml
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.g.resources
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\refint\Views.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.pdb
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\Views.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Views\obj\Debug\net6.0-windows\ref\Views.dll

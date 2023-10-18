@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Commande>
+  <Articles>
+    <Article>
+      <Designation>Air Force  </Designation>
+      <Quantite>1</Quantite>
+      <Prix>115</Prix>
+      <imagePath />
+    </Article>
+    <Article>
+      <Designation>Air Force  </Designation>
+      <Quantite>1</Quantite>
+      <Prix>115</Prix>
+      <imagePath />
+    </Article>
+    <Article>
+      <Designation>Air Force  </Designation>
+      <Quantite>1</Quantite>
+      <Prix>115</Prix>
+      <imagePath />
+    </Article>
+    <Article>
+      <Designation>Air Force  </Designation>
+      <Quantite>1</Quantite>
+      <Prix>115</Prix>
+      <imagePath />
+    </Article>
+    <Article>
+      <Designation>Air Force  </Designation>
+      <Quantite>1</Quantite>
+      <Prix>115</Prix>
+      <imagePath />
+    </Article>
+    <Article>
+      <Designation>Air Force  </Designation>
+      <Quantite>1</Quantite>
+      <Prix>115</Prix>
+      <imagePath />
+    </Article>
+    <Article>
+      <Designation>Air Force  </Designation>
+      <Quantite>1</Quantite>
+      <Prix>115</Prix>
+      <imagePath />
+    </Article>
+    <Article>
+      <Designation>Air Force  </Designation>
+      <Quantite>1</Quantite>
+      <Prix>115</Prix>
+      <imagePath />
+    </Article>
+  </Articles>
+  <Total>920</Total>
+</Commande>

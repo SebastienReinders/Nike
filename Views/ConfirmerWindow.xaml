@@ -1,0 +1,53 @@
+﻿<Window x:Class="Views.ConfirmerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterScreen"
+        Title="Confirmation Panier" Height="450" Width="800">
+
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Titre -->
+        <TextBlock Text="Confirmation de votre panier" FontWeight="Bold" FontSize="24" HorizontalAlignment="Center" Margin="0,0,0,20" Grid.Row="0" />
+
+        <!-- Formulaire -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Label Content="Nom :" VerticalAlignment="Center" Margin="0,0,10,0" />
+            <TextBox Grid.Column="1" Margin="0,0,0,10" Text="{Binding Nom, Mode=TwoWay}" />
+
+            <Label Content="Prénom :" Grid.Row="1" VerticalAlignment="Center" Margin="0,0,10,0" />
+            <TextBox Grid.Column="1" Grid.Row="1" Margin="0,0,0,10" Text="{Binding Prenom, Mode=TwoWay}" />
+
+            <Label Content="Adresse :" Grid.Row="2" VerticalAlignment="Center" Margin="0,0,10,0" />
+            <TextBox Grid.Column="1" Grid.Row="2" Margin="0,0,0,10" Text="{Binding Adresse, Mode=TwoWay}" />
+
+            <Label Content="Age :" Grid.Row="3" VerticalAlignment="Center" Margin="0,0,10,0" />
+            <TextBox Grid.Column="1" Grid.Row="3" Margin="0,0,0,10" Text="{Binding Age, Mode=TwoWay}" />
+
+            <Label Content="GSM :" Grid.Row="4" VerticalAlignment="Center" Margin="0,0,10,0" />
+            <TextBox Grid.Column="1" Grid.Row="4" Margin="0,0,0,10" Text="{Binding GSM, Mode=TwoWay}" />
+        </Grid>
+
+        <!-- Boutons -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20" Grid.Row="2">
+            <Button Content="Annuler" Width="100" Margin="10" Command="{Binding AnnulerCommand}" />
+            <Button Content="Confirmer" Width="100" Margin="10" Command="{Binding EnvoyerCommande}" />
+        </StackPanel>
+    </Grid>
+</Window>

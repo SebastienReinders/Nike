@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Commande>
+  <Client>
+    <Nom>Banushi</Nom>
+    <Prenom>Arber</Prenom>
+    <Adresse>rue Metalonstree</Adresse>
+  </Client>
+  <Articles>
+    <Article>
+      <Designation>Air Force  </Designation>
+      <Quantite>1</Quantite>
+      <Prix>115</Prix>
+      <ImagePath />
+    </Article>
+  </Articles>
+</Commande>

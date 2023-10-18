@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Commande>
+  <Client>
+    <Nom>Reinders</Nom>
+    <Prenom>Sebastien</Prenom>
+    <Adresse>rue des Eglises 148</Adresse>
+  </Client>
+  <Articles>
+    <Article>
+      <Designation>Air Jordan</Designation>
+      <Quantite>1</Quantite>
+      <Prix>145</Prix>
+      <ImagePath />
+    </Article>
+    <Article>
+      <Designation>Air Max90</Designation>
+      <Quantite>1</Quantite>
+      <Prix>125</Prix>
+      <ImagePath />
+    </Article>
+    <Article>
+      <Designation>Air Max90</Designation>
+      <Quantite>1</Quantite>
+      <Prix>125</Prix>
+      <ImagePath />
+    </Article>
+  </Articles>
+</Commande>

@@ -1,0 +1,24 @@
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\bin\Debug\net6.0\Modele.deps.json
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\bin\Debug\net6.0\Modele.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\bin\Debug\net6.0\Modele.pdb
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\refint\Modele.dll
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.pdb
+C:\Users\sebas\OneDrive\Bureau\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\ref\Modele.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\bin\Debug\net6.0\Modele.deps.json
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\bin\Debug\net6.0\Modele.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\bin\Debug\net6.0\Modele.pdb
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\refint\Modele.dll
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\Modele.pdb
+C:\Users\sebas\OneDrive\Bureau\Seb docs 2022-2023\Info 2eme Quadri 2023\C#\Labo\ReindersSébastienProjetJuin2023\Modele\obj\Debug\net6.0\ref\Modele.dll

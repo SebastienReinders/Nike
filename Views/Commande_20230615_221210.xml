@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Commande>
+  <Client>
+    <Nom>Munsters</Nom>
+    <Prenom>Cédric</Prenom>
+    <Adresse>rue des Champs 48</Adresse>
+  </Client>
+  <Articles />
+</Commande>
